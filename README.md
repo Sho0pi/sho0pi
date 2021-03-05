@@ -3,7 +3,7 @@
 ---
 
 
-[![Twitter Badge](https://img.shields.io/badge/@Sho0pi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sho0pi) [![Instagram Badge](https://img.shields.io/badge/@Sho0pi-white?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://instagram.com/sho0pi) [![Buy Me a Coffee Badge](https://img.shields.io/badge/Support-fedd03?style=flat&labelColor=fedd03&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sho0pi) 
+[![Twitter Badge](https://img.shields.io/badge/@Sho0pi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sho0pi) [![Instagram Badge](https://img.shields.io/badge/@Sho0pi-white?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://instagram.com/sho0pi) [![Buy Me a Coffee Badge](https://img.shields.io/badge/Support-fedd03?style=flat&labelColor=fedd03&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sho0pi) [![Ko-Fi  Badge](https://img.shields.io/badge/Support-F16061?style=flat&labelColor=F16061&logo=ko-fi&logoColor=white)](https://www.ko-fi.com/sho0pi) 
 
 
 <!--
