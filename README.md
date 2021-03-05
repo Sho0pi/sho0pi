@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there I'm Itay - aka Sho0pi 👋
+
+---
+
+
+[![Twitter Badge](https://img.shields.io/badge/@Sho0pi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/sho0pi) [![Instagram Badge](https://img.shields.io/badge/@Sho0pi-white?style=flat&labelColor=white&logo=instagram&logoColor=e84393)](https://instagram.com/sho0pi) [![Buy Me a Coffee Badge](https://img.shields.io/badge/Support-fedd03?style=flat&labelColor=fedd03&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sho0pi) 
+
 
 <!--
 **Sho0pi/sho0pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
