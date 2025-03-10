@@ -39,6 +39,7 @@ I'm from Israel 🇮🇱, currently in the East Asia time zone 🌏. I'm a huge 
 [![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)](https://www.linux.org/)
 [![AOSP](https://img.shields.io/badge/-AOSP-000?logo=android)](https://cs.android.com/)
 [![AI (OpenAI)](https://img.shields.io/badge/-AI-000?logo=openai)](https://openai.com/)
+[![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)](https://www.docker.com/)
 [![Vim](https://img.shields.io/badge/-Vim-000?logo=vim)](https://www.vim.org/)
 [![Tmux](https://img.shields.io/badge/-Tmux-000?logo=tmux)](https://github.com/tmux/tmux)
 [![Git](https://img.shields.io/badge/-Git-000?logo=git)](https://git-scm.com/)
