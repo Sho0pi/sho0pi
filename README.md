@@ -1,7 +1,7 @@
 ### Hi, I'm Itay - aka Sho0pi 👋
 
 ---
-It's Itay – think "Italy" but ditch the 'L' 🇮🇹, or just imagine you're hungry and saying "eat Thai food" 🍜. Easy, right? 😂😂
+It's Itay – like 'Italy' without the 'L' 🇮🇹, or just think 'eat Thai food' 🍜. Easy, right? 😂
 
 ![View Count](https://komarev.com/ghpvc/?username=Sho0pi) [![Instagram Badge](https://img.shields.io/badge/itay.png-white?style=flat&logo=instagram&logoColor=e84393)](https://instagram.com/itay.png) 
 
