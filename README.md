@@ -46,6 +46,7 @@ I'm from Israel 🇮🇱, currently in the East Asia time zone 🌏. I'm a huge 
 [![GitLab](https://img.shields.io/badge/-GitLab-000?logo=gitlab)](https://gitlab.com/Sho0pi)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/Sho0pi)
 [![Pipenv](https://img.shields.io/badge/-Pipenv-000?logo=python)](https://pipenv.pypa.io/)
+[![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs)](https://nestjs.com/)
 
 
 <!--
