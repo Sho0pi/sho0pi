@@ -8,7 +8,7 @@ It's Itay – like 'Italy' without the 'L' 🇮🇹, or just think 'eat Thai foo
 <!--- [![Buy Me a Coffee Badge](https://img.shields.io/badge/Support-fedd03?style=flat&labelColor=fedd03&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sho0pi) [![Ko-Fi  Badge](https://img.shields.io/badge/Support-F16061?style=flat&labelColor=F16061&logo=ko-fi&logoColor=white)](https://www.ko-fi.com/sho0pi) --->
 
 
-I'm from Israel 🇮🇱, currently in the East Asia Time zone 🌏. Huge fan of Golang, Kotlin, Android, functional programming, open-source, and writing code that will make our life easier 💻. When I'm not crushing bugs or building dreams, you can find me painting 🎨, swimming 🏊, or backpacking around the world (I've been solo traveling for over a year 🗺️).
+I'm from Israel 🇮🇱, currently in the East Asia time zone 🌏. I'm a huge fan of Golang, Kotlin, Android, functional programming, open-source, and writing code that makes life easier 💻. When I'm not crushing bugs or building dreams, you’ll find me painting 🎨, swimming 🏊, cooking 🍳, snowboarding 🏂. or backpacking around the world—I’ve been solo traveling for over a year! 🗺️
 
 
 ### 💻 Tech I Love
