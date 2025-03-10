@@ -8,6 +8,8 @@
 
 I'm from Israel 🇮🇱, currently in the East Asia Time zone 🌏. Huge fan of Golang, Kotlin, Android, functional programming, open-source, and writing code that will make our life easier 💻. When I'm not crushing bugs or building dreams, you can find me painting 🎨, swimming 🏊, or backpacking around the world (I've been solo traveling for over a year 🗺️).
 
+It's Itay – think "Italy" but ditch the 'L' 🇮🇹, or just imagine you're hungry and saying "eat Thai food" 🍜. Easy, right?
+
 <!--
 **Sho0pi/sho0pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
