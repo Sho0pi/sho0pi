@@ -10,6 +10,20 @@ It's Itay – think "Italy" but ditch the 'L' 🇮🇹, or just imagine you're h
 I'm from Israel 🇮🇱, currently in the East Asia Time zone 🌏. Huge fan of Golang, Kotlin, Android, functional programming, open-source, and writing code that will make our life easier 💻. When I'm not crushing bugs or building dreams, you can find me painting 🎨, swimming 🏊, or backpacking around the world (I've been solo traveling for over a year 🗺️).
 
 
+### 💻 Tech I Love
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)](https://github.com/Sho0pi?tab=repositories&q=&type=&language=go)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://github.com/Sho0pi?tab=repositories&q=&type=&language=kotlin)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/search?q=user%3Asho0pi+language%3AKotlin+language%3AJava+&type=repositories)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white)](https://github.com/search?q=user%3ASho0pi+topic%3Ajetpack-compose&type=repositories)
+![Magisk + LSposed](https://img.shields.io/badge/Magisk_+_LSposed-EC6665?style=flat&logo=magisk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![Golang Cobra](https://img.shields.io/badge/Cobra-00ADD8?style=flat&logo=go&logoColor=white)
+![ZSH](https://img.shields.io/badge/ZSH-121011?style=flat&logo=gnu-bash&logoColor=white)
+![Functional Programming](https://img.shields.io/badge/Functional_Programming-purple?style=flat)
+
+
 <!--
 **Sho0pi/sho0pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
