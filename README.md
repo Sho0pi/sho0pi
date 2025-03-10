@@ -20,6 +20,33 @@ I'm from Israel 🇮🇱, currently in the East Asia Time zone 🌏. Huge fan of
 ![Functional Programming](https://img.shields.io/badge/Functional_Programming-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
 
+
+### Experience
+[![Go](https://img.shields.io/badge/-Go-000?logo=go)](https://github.com/Sho0pi?tab=repositories&language=go)
+[![Python](https://img.shields.io/badge/-Python-000?logo=python)](https://github.com/Sho0pi?tab=repositories&language=python)
+[![C](https://img.shields.io/badge/-C-000?logo=c)](https://github.com/Sho0pi?tab=repositories&language=c)
+[![C++](https://img.shields.io/badge/-C++-000?logo=c%2B%2B)](https://github.com/Sho0pi?tab=repositories&language=c%2B%2B)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-000?logo=kotlin)](https://github.com/Sho0pi?tab=repositories&language=kotlin)
+[![Java](https://img.shields.io/badge/-Java-000?logo=java)](https://github.com/Sho0pi?tab=repositories&language=java)
+[![Gradle](https://img.shields.io/badge/-Gradle-000?logo=gradle)](https://github.com/Sho0pi?tab=repositories&language=groovy)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)](https://github.com/Sho0pi?tab=repositories&language=typescript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)](https://github.com/Sho0pi?tab=repositories&language=javascript)
+[![Bash](https://img.shields.io/badge/-Bash-000?logo=gnu-bash)](https://github.com/Sho0pi?tab=repositories&language=shell)
+[![Lua](https://img.shields.io/badge/-Lua-000?logo=lua)](https://github.com/Sho0pi?tab=repositories&language=lua)
+[![Assembly](https://img.shields.io/badge/-Assembly-000?logo=assemblyscript)](https://github.com/Sho0pi?tab=repositories&language=assembly)
+[![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)](https://github.com/Sho0pi?tab=repositories&language=sql)
+
+[![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)](https://www.linux.org/)
+[![AOSP](https://img.shields.io/badge/-AOSP-000?logo=android)](https://source.android.com/)
+[![AI (OpenAI)](https://img.shields.io/badge/-AI-000?logo=openai)](https://openai.com/)
+[![Vim](https://img.shields.io/badge/-Vim-000?logo=vim)](https://www.vim.org/)
+[![Tmux](https://img.shields.io/badge/-Tmux-000?logo=tmux)](https://github.com/tmux/tmux)
+[![Git](https://img.shields.io/badge/-Git-000?logo=git)](https://git-scm.com/)
+[![GitLab](https://img.shields.io/badge/-GitLab-000?logo=gitlab)](https://gitlab.com/Sho0pi)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)](https://github.com/Sho0pi)
+[![Pipenv](https://img.shields.io/badge/-Pipenv-000?logo=python)](https://pipenv.pypa.io/)
+
+
 <!--
 **Sho0pi/sho0pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
