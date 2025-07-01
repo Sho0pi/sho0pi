@@ -4,7 +4,6 @@
 It's Itay – like 'Italy' without the 'L' 🇮🇹, or just think 'eat Thai food' 🍜. Easy, right? 😂
 
 ![View Count](https://komarev.com/ghpvc/?username=Sho0pi) [![Instagram Badge](https://img.shields.io/badge/itay.png-white?style=flat&logo=instagram&logoColor=e84393)](https://instagram.com/itay.png) 
-
 [![Dev Blog 🧠](https://img.shields.io/badge/dev.blog-white?style=flat&logo=github&logoColor=000000)](https://sho0pi.github.io/dev/)
 [![Travel Blog 🌍](https://img.shields.io/badge/travel.blog-white?style=flat&logo=google-maps&logoColor=4285F4)](https://sho0pi.github.io/travel/)
 
