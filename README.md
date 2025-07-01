@@ -4,7 +4,7 @@
 It's Itay – like 'Italy' without the 'L' 🇮🇹, or just think 'eat Thai food' 🍜. Easy, right? 😂
 
 ![View Count](https://komarev.com/ghpvc/?username=Sho0pi) [![Instagram Badge](https://img.shields.io/badge/itay.png-white?style=flat&logo=instagram&logoColor=e84393)](https://instagram.com/itay.png) 
-[![Dev Blog 🧠](https://img.shields.io/badge/dev.blog-white?style=flat&logo=github&logoColor=000000)](https://sho0pi.github.io/dev/)
+[![Dev Blog 🧠](https://img.shields.io/badge/dev.blog-000?logo=tmux)](https://sho0pi.github.io/dev/)
 [![Travel Blog 🌍](https://img.shields.io/badge/travel.blog-white?style=flat&logo=google-maps&logoColor=4285F4)](https://sho0pi.github.io/travel/)
 
 <!--- [![Buy Me a Coffee Badge](https://img.shields.io/badge/Support-fedd03?style=flat&labelColor=fedd03&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/sho0pi) [![Ko-Fi  Badge](https://img.shields.io/badge/Support-F16061?style=flat&labelColor=F16061&logo=ko-fi&logoColor=white)](https://www.ko-fi.com/sho0pi) --->
