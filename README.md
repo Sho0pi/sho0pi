@@ -9,6 +9,20 @@ It's Itay – like 'Italy' without the 'L' 🇮🇹, or just think 'eat Thai foo
 I'm from Israel 🇮🇱, currently in the East Asia time zone 🌏. I'm a huge fan of Golang, Kotlin, Android, functional programming, open-source, and writing code that makes life easier 💻. When I'm not crushing bugs or building dreams, you’ll find me painting 🎨, swimming 🏊, cooking 🍳, snowboarding 🏂. or backpacking around the world—I’ve been solo traveling for over a year! 🗺️
 
 ### 💻 Tech I Love
+
+![Go](https://shieldcn.dev/badge/Go-_-00ADD8.svg?logo=go&size=xs)
+![Kotlin](https://shieldcn.dev/badge/Kotlin-_-7F52FF.svg?logo=kotlin&size=xs)
+![Android](https://shieldcn.dev/badge/Android-_-3DDC84.svg?logo=android&size=xs)
+![Functional_Programming](https://shieldcn.dev/badge/Functional_Programming-_-5D4F85.svg?logo=haskell&size=xs)
+![Vim](https://shieldcn.dev/badge/Vim-_-019733.svg?logo=vim&size=xs)
+![AI_Agent](https://shieldcn.dev/badge/AI_Agent-_-0F172A.svg?logo=ri%3ATbAi&logoColor=white&size=xs)
+
+![Go](https://shieldcn.dev/badge/Go-_-00ADD8.svg?logo=go&size=xs)
+![Kotlin](https://shieldcn.dev/badge/Kotlin-_-7F52FF.svg?logo=kotlin&size=xs)
+![Functional](https://shieldcn.dev/badge/Functional-_-5D4F85.svg?logo=haskell&size=xs)
+![Vim](https://shieldcn.dev/badge/Vim-_-019733.svg?logo=vim&size=xs)
+![AI_Agents](https://shieldcn.dev/badge/AI_Agents-_-0F172A.svg?logo=ri%3ATbAi&logoColor=white&size=xs)
+
 Go Kotlin Android Jetpack Compose Magisk + LSposed Functional Programming Vim
 
 ### Experience
