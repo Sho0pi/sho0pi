@@ -16,12 +16,8 @@ Go Python C C++ Kotlin Java Gradle TypeScript JavaScript Bash Lua Assembly SQL
 
 Linux AOSP AI (OpenAI) Docker Vim Tmux Git GitLab GitHub Pipenv NestJS
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="assets/snake/github-snake-dark.svg"
-  />
   <img
     alt="github contribution grid snake animation"
-    src="assets/snake/github-snake.svg"
+    src="assets/snake/github-snake-dark.svg"
   />
 </picture>
