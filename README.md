@@ -10,25 +10,42 @@ I'm from Israel 🇮🇱, currently in the East Asia time zone 🌏. I'm a huge 
 
 ### 💻 Tech I Love
 
-![Go](https://shieldcn.dev/badge/Go-_-00ADD8.svg?logo=go&size=xs)
-![Kotlin](https://shieldcn.dev/badge/Kotlin-_-7F52FF.svg?logo=kotlin&size=xs)
-![Android](https://shieldcn.dev/badge/Android-_-3DDC84.svg?logo=android&size=xs)
-![Functional_Programming](https://shieldcn.dev/badge/Functional_Programming-_-5D4F85.svg?logo=haskell&size=xs)
-![Vim](https://shieldcn.dev/badge/Vim-_-019733.svg?logo=vim&size=xs)
-![AI_Agent](https://shieldcn.dev/badge/AI_Agent-_-0F172A.svg?logo=ri%3ATbAi&logoColor=white&size=xs)
-
-![Go](https://shieldcn.dev/badge/Go-_-00ADD8.svg?logo=go&size=xs)
-![Kotlin](https://shieldcn.dev/badge/Kotlin-_-7F52FF.svg?logo=kotlin&size=xs)
-![Functional](https://shieldcn.dev/badge/Functional-_-5D4F85.svg?logo=haskell&size=xs)
-![Vim](https://shieldcn.dev/badge/Vim-_-019733.svg?logo=vim&size=xs)
-![AI_Agents](https://shieldcn.dev/badge/AI_Agents-_-0F172A.svg?logo=ri%3ATbAi&logoColor=white&size=xs)
-
-Go Kotlin Android Jetpack Compose Magisk + LSposed Functional Programming Vim
+![Go](https://shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&size=xs)
+![Kotlin](https://shieldcn.dev/badge/-Kotlin-7F52FF.svg?logo=kotlin&size=xs)
+![Android](https://shieldcn.dev/badge/-Android-3DDC84.svg?logo=android&size=xs)
+![Functional_Programming](https://shieldcn.dev/badge/-Functional_Programming-5D4F85.svg?logo=ri%3ATbLambda&size=xs)
+![Vim](https://shieldcn.dev/badge/-Vim-019733.svg?logo=vim&size=xs)
+![AI_Agent](https://shieldcn.dev/badge/-AI_Agents-0F172A.svg?logo=modelcontextprotocol&logoColor=white&size=xs)
 
 ### Experience
-Go Python C C++ Kotlin Java Gradle TypeScript JavaScript Bash Lua Assembly SQL
 
-Linux AOSP AI (OpenAI) Docker Vim Tmux Git GitLab GitHub Pipenv NestJS
+![Go](https://img.shields.io/badge/-Go-000?logo=go)
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![C](https://img.shields.io/badge/-C-000?logo=c)
+![C++](https://img.shields.io/badge/-C++-000?logo=cplusplus)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?logo=kotlin)
+![Lua](https://img.shields.io/badge/-Lua-000?logo=lua)
+![Java](https://img.shields.io/badge/-Java-000?logo=openjdk&logoColor=ED8B00)
+![Gradle](https://img.shields.io/badge/-Gradle-000?logo=gradle)
+![Bash](https://img.shields.io/badge/-Bash-000?logo=gnubash)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
+![Assembly](https://img.shields.io/badge/-Assembly-000?logo=assemblyscript)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)
+
+![Linux](https://img.shields.io/badge/-Linux-000?logo=linux)
+![AOSP](https://img.shields.io/badge/-AOSP-000?logo=android)
+![AI](https://img.shields.io/badge/-AI-000?logo=claude)
+![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
+![Vim](https://img.shields.io/badge/-Vim-000?logo=vim)
+![Tmux](https://img.shields.io/badge/-Tmux-000?logo=tmux)
+![Git](https://img.shields.io/badge/-Git-000?logo=git)
+![GitLab](https://img.shields.io/badge/-GitLab-000?logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
+![Pipenv](https://img.shields.io/badge/-Pipenv-000?logo=python)
+![NestJS](https://img.shields.io/badge/-NestJS-000?logo=nestjs)
+
+
 <picture>
   <img
     alt="github contribution grid snake animation"
