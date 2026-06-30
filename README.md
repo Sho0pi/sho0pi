@@ -4,7 +4,7 @@
 It's Itay – like 'Italy' without the 'L' 🇮🇹, or just think 'eat Thai food' 🍜. Easy, right? 😂
 
 <p align="justify">
-I'm from Israel 🇮🇱, currently in the East Asia time zone 🌏. I'm a huge fan of Golang, Kotlin, Android, functional programming, open-source, and writing code that makes life easier 💻. When I'm not crushing bugs or building dreams, you’ll find me painting 🎨, swimming 🏊, cooking 🍳, snowboarding 🏂. or backpacking around the world—I’ve been solo traveling for over a year! 🗺️
+I'm from Israel 🇮🇱, currently living in Singapore 🇸🇬. I've been travelling the world for over two years now 🌏 - meeting people from so many different cultures and collecting new experiences along the way. Now I'm back at full power, building tools that I hope will change the world. I'm a huge fan of Go, Kotlin, Android, and functional programming 💻 I build tools that make my life easier, and I hope they make yours easier too!
 </p>
 
 ![](https://komarev.com/ghpvc/?username=sho0pi) [![itay.png](https://img.shields.io/badge/itay.png-white?style=flat\&logo=instagram\&logoColor=e84393)](https://instagram.com/itay.png)
